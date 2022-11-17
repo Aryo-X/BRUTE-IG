@@ -20,6 +20,6 @@ $ cd BRUTE-IG
 
 $ git pull
 
-$ python IGEH.py
+$ python run.py
 
 # THIS SC PAID 
